@@ -1,0 +1,30 @@
+import java.util.*;
+public class Main {
+  
+  public static void main(String[] args) {
+    int age = 16;
+    double percentage = 6.4;
+    Character schoolfirstletter = 'M';
+    Character schoollastletter = 'H';
+    boolean HeisBadBoy = false;
+    
+    System.out.println(age);
+    System.out.println(percentage);
+    System.out.println(schoolfirstletter);
+    System.out.println(schoollastletter);
+    System.out.println(HeisBadBoy);
+    age = 10;
+    percentage = 2.4;
+    schoolfirstletter = 'S';
+    schoollastletter = 'D';
+    HeisBadBoy = true;
+    System.out.println(age);
+    System.out.println(percentage);
+    System.out.println(schoolfirstletter);
+    System.out.println(schoollastletter);
+    System.out.println(HeisBadBoy);
+
+  }
+} 
+  
+   
